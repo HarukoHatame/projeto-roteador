@@ -1,0 +1,14 @@
+body {
+        background: white;
+        color: blue;
+  Font-size: 18px;}
+.titulo_principal {
+background-color: purple;
+  color: black;
+  max-width: 550px;
+  margin: auto;
+    text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 15px 10px blue; 
+} 
